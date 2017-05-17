@@ -28,6 +28,14 @@ Freelance - JavaScript developer and architect
 
 ---
 
+### Overview of the architecture ###
+
+---
+
+<img src="architecture.svg" style="width: 100%;height: auto;" />
+
+---
+
 ### Why
 #### Client side rich application
 ___
@@ -53,6 +61,7 @@ note: allowed by, but not inheritent to, ssr
 ___
 
 (+) Improve the user experience (provide the service server side if the client cannot)
+* Before load
 * Compatibility fallback
 * People that disable js on purpose
 * Improve Accessibility
@@ -124,7 +133,7 @@ ___
 ### Starting point
 ___
 
-"create-reat-app"
+"create-react-app"
 =    no SSR, hacky to add
 ___
 
@@ -194,11 +203,6 @@ res.send(
   <script src="index.js" />`
 )
 ```
----
-
-<img src="architecture.svg" style="width: 100%;height: auto;" />
-
----
 
 ### Getting serious
 
