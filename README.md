@@ -2,7 +2,7 @@
 
 ---
 
-### What
+### No-JS ?
 ___
 
 * Write a web app in full JavaScript
@@ -13,6 +13,18 @@ note:
 An app that will be :
 * Using different server side rendering techniques
 * JS server + client = DRY
+
+---
+
+### Samuel Bouchet
+
+Freelance - JavaScript developer and architect
+
+[samuel-bouchet.fr](http://samuel-bouchet.fr/)
+
+[@Lythom](https://twitter.com/Lythom)
+
+<img src="photo.png" style="width: 200px;height: auto;" />
 
 ---
 
@@ -70,9 +82,8 @@ ___
 
 note:
 
-Confidential
-Article written in 2016-01
-without the static part
+* Confidential Article written in 2016-01 without the static part
+
 ---
 
 ## Demo
@@ -529,3 +540,12 @@ note:
     * Ie. would use a pattern matching on url to dispatch any action
 
 * Using static server by default for best performances and fallback on interactive server when needed.
+
+---
+
+## References
+
+* [http://samuel-bouchet.fr](http://samuel-bouchet.fr/)
+* The talk : [https://github.com/Lythom/talk-no-js-with-react-redux]()
+* The demo repo : [https://github.com/Lythom/react-redux-nojs]()
+* full-js and no-js article (FR, clever-age blog) [https://blog.clever-age.com/fr/2016/02/01/full-js-et-no-js-avecreactredux/]()
