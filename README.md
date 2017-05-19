@@ -32,7 +32,7 @@ Freelance - JavaScript developer and architect
 
 ---
 
-<img src="architecture.svg" style="width: 100%;height: auto;" />
+<img src="https://cdn.rawgit.com/Lythom/talk-no-js-with-react-redux/d913a673/architecture.svg" style="width: 100%;height: auto;" />
 
 ---
 
