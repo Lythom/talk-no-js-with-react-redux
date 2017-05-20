@@ -64,7 +64,6 @@ ___
 * Before load
 * Compatibility fallback
 * People that disable js on purpose
-* Improve Accessibility
 * Robots that can perform actions for people (assistance, delegated use, integration tests)
 note:
 for older browers (ie6, ie7, ie8, olders android, windows phones)
@@ -203,6 +202,8 @@ res.send(
   <script src="index.js" />`
 )
 ```
+
+---
 
 ### Getting serious
 
@@ -534,15 +535,21 @@ note:
 
 ## going further
 
+___
+
 * Make the app work fully offline
     * real-time synchronization of Redux store using PouchDB
     * tabs and devices states are synchronized (not necessary navigation)
     * the app can go offline then synchronise back with custom conflict resolution where needed
-    
+
+___
+
 * Make a generic server that automatically performs actions when client side js is disabled
     * Act as a front-end proxy
     * Ie. would use a pattern matching on url to dispatch any action
 
+___
+	
 * Using static server by default for best performances and fallback on interactive server when needed.
 
 ---
