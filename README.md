@@ -32,7 +32,7 @@ Freelance - JavaScript developer and architect
 
 ---
 
-<img src="architecture.svg" style="width: 100%;height: auto;" />
+<img src="https://cdn.rawgit.com/Lythom/talk-no-js-with-react-redux/d913a673/architecture.svg" style="width: 100%;height: auto;" />
 
 ---
 
@@ -556,7 +556,7 @@ ___
 
 ## References
 
-* [http://samuel-bouchet.fr](http://samuel-bouchet.fr/)
-* The talk : [https://github.com/Lythom/talk-no-js-with-react-redux]()
-* The demo repo : [https://github.com/Lythom/react-redux-nojs]()
-* full-js and no-js article (FR, clever-age blog) [https://blog.clever-age.com/fr/2016/02/01/full-js-et-no-js-avecreactredux/]()
+* http://samuel-bouchet.fr
+* The talk : https://github.com/Lythom/talk-no-js-with-react-redux
+* The demo repo : https://github.com/Lythom/react-redux-nojs
+* full-js and no-js article (FR, clever-age blog) https://blog.clever-age.com/fr/2016/02/01/full-js-et-no-js-avecreactredux/
